@@ -1,7 +1,7 @@
-title: "42"
-description: 
+title: "The answer is 42"
+description: Some fancy descr
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
