@@ -1,5 +1,5 @@
-title: "The 42"
-description: Some fancy descr
+title: "The 42 titles"
+description: Fancy description
 google_analytics: 
 show_downloads: false
 remote_theme: benbalter/retlab
@@ -7,7 +7,7 @@ nav_pages:
   - index.html
   - md.md
 footer_pages:
-  - md.md
+  - footer.md
 
 gems:
   - jekyll-mentions

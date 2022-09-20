@@ -1,0 +1,1 @@
+This is single line footer page.
