@@ -3,6 +3,11 @@ description: Some fancy descr
 google_analytics: 
 show_downloads: false
 remote_theme: benbalter/retlab
+nav_pages:
+  - index.html
+  - md.md
+footer_pages:
+  - md.md
 
 gems:
   - jekyll-mentions
