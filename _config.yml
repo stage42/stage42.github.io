@@ -8,6 +8,7 @@ nav_pages:
   - md.md
 footer_pages:
   - footer.md
+  - md.md
 
 gems:
   - jekyll-mentions
